@@ -5,7 +5,7 @@ Note: Suitable for Ubuntu Desktop, Linux Mint, and all Ubuntu Base Distros.
 
 ## Prepare
 
-1. Install Mint using the official installer and documentation
+1. Install Ubuntu using the official installer and documentation
 
 2. Go threw the welcome menu and setup all your preferences.
 
