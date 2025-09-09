@@ -1,4 +1,7 @@
-# Linux-Mint-Install-Repo
+# Ubuntu-Install-Repo
+
+Note: Suitable for Ubuntu Desktop, Linux Mint, and all Ubuntu Base Distros. 
+*UbuntuLTS = ULTS => Only Suitable for Ubuntu LTS
 
 A short Cheat Sheet for setting up Linux Mint to my own preferences and tools / drivers / ...
 
