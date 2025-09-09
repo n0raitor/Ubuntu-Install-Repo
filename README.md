@@ -18,7 +18,7 @@ Grab the latest DEBs of Proton and install them.
 **Install Script**:
 
 ```bash
-sudo apt install obs-studio git libfuse2 ubuntu-restricted-extras -y
+sudo apt install curl obs-studio git libfuse2 ubuntu-restricted-extras -y
 sudo apt install gnome-builder calibre handbrake obs-studio vlc filelight baobab python3-virtualenv python3-pip python3 glances most dia ghex tree bleachbit ipython3 neofetch gnome-keyring android-sdk-platform-tools-common qbittorrent -y
 sudo snap install spotify
 sudo apt install gnome-games -y
