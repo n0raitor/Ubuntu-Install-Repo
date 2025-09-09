@@ -68,7 +68,7 @@ Open Software Center and enable Flatpak unsigned in settings two find more Flatp
 ## Performence
 
 ```bash
-sudo apt install preload tlp tlp-rdw
+sudo apt install preload tlp tlp-rdw -y
 sudo systemctl enable tlp --now
 sudo systemctl enable fstrim.timer --now
 ```
