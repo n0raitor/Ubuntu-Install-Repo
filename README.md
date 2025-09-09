@@ -33,14 +33,14 @@ sudo apt install gnome-software gnome-software-plugin-flatpak gnome-software-com
 ``` 
 
 ```bash
-sudo flatpak install com.github.marktext.marktext
-sudo flatpak install md.obsidian.Obsidian 
-sudo flatpak install com.vscodium.codium
-sudo flatpak install org.ghidra_sre.Ghidra
-sudo flatpak install appimage-pool
-sudo flatpak install com.github.tchx84.Flatseal
-sudo flatpak install flathub org.signal.Signal
-sudo flatpak install org.jdownloader.JDownloader
+sudo flatpak install com.github.marktext.marktext -y
+sudo flatpak install md.obsidian.Obsidian -y
+sudo flatpak install com.vscodium.codium -y
+sudo flatpak install org.ghidra_sre.Ghidra -y
+sudo flatpak install appimage-pool -y
+sudo flatpak install com.github.tchx84.Flatseal -y
+sudo flatpak install flathub org.signal.Signal -y
+sudo flatpak install org.jdownloader.JDownloader -y
 ```
 
 **Jetbrains**
